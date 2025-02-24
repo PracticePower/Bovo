@@ -1,2 +1,4 @@
-package com.bovo.Bovo.common;public class CommonExample {
+package com.bovo.Bovo.common;
+
+public class CommonExample {
 }
