@@ -1,2 +1,4 @@
-package com.bovo.Bovo.modules.example.controller;public class ExampleController {
+package com.bovo.Bovo.modules.example.controller;
+
+public class ExampleController {
 }
