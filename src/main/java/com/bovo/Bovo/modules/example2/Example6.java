@@ -7,5 +7,6 @@ public class Example6 {
         System.out.println("merge 에제2");
         System.out.println("PR 예제");
         System.out.println("PR 예제2");
+        System.out.println("PR 예제3");
     }
 }
